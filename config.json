@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscecrypt",
+        "uuid": 1592406,
+        "checksum": "mizs7r"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
